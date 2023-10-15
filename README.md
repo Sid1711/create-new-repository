@@ -1,4 +1,4 @@
 # create-new-repository
 Hello Git
 
-made a chnage
+made a chnage on same line
